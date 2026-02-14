@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi
+
+![coruscant](https://github.com/user-attachments/assets/5e2076cf-b178-4367-a4c9-dd14c1407a01)
+
 
 <!--
+
 **rohin20/rohin20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
